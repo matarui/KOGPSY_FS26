@@ -1,7 +1,7 @@
 ---
 title: "KOGPSY II"
 description: |
-  Welcome to the website for *Kognitionspsychologie II* FS25 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=288841))
+  Welcome to the website for *Kognitionspsychologie II* FS26 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=288841))
   
   Instructors: [Loreen Tisdall](https://loreentisdall.github.io), [Max Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -32,19 +32,20 @@ Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at
 ::: l-body
 | # | Date     | Topic                         | Slides | Instructor |
 |---| ---------|-------------------------------|--------| ------- |
-| 1 | 18.02.2025 | Emotion: What is an emotion? | [pdf](presentations/KOGPSYII_session1.pdf) | Mata |
-| 2 | 25.02.2025 | Emotion: What is an emotion? (continued) | [pdf](presentations/KOGPSYII_session2.pdf)  | Mata |
-| 3 | 18.03.2025 | Emotion: Neural bases | [pdf](presentations/KOGPSYII_session3.pdf)  | Tisdall |
-| 4 | 25.03.2025 | Emotion: Regulation | [pdf](presentations/KOGPSYII_session4.pdf)  | Mata |
-| 5 | 01.04.2025 | Emotion: Well-being | [pdf](presentations/KOGPSYII_session5.pdf)  | Mata |
-| 6 | 08.04.2025 | Motivation: What is motivation? | [pdf](presentations/KOGPSYII_session6.pdf)  | Mata |
-| 7 | 15.04.2025 | Motivation: Extrinsic vs intrinsic motivation | [pdf](presentations/KOGPSYII_session7.pdf) | Mata |
-| 8 | 29.04.2025 | Motivation: Neural bases | [pdf](presentations/KOGPSYII_session8.pdf)   | Tisdall |
-| 9 | 06.05.2025 | Motivation: Cooperation and morality | [pdf](presentations/KOGPSYII_session9.pdf)  | Theisen |
-| 10 | 13.05.2025 | Applications |  [pdf](presentations/KOGPSYII_session10.pdf)  | Mata |
-| 11 | 20.05.2025 | Wrap-up and Q&A | [pdf](presentations/KOGPSYII_session11.pdf) | Mata |
-| 12 | 03.06.2025 | Exam (DSBG Neubau) |  |  |
-| 13 | 21.07.2025 | Repeat Exam (Biozentrum)|  |  |
+| 1 | 17.02.2026 | Emotion: What is an emotion? |  | Mata |
+| 2 | 03.03.2026 | Emotion: What is an emotion? (continued) |  | Mata |
+| 3 | 10.03.2026 | Emotion: Neural bases |  | Tisdall |
+| 4 | 17.03.2026 | Emotion: Regulation |   | Mata |
+| 5 | 24.03.2026 | Emotion: Well-being | | Mata |
+| 6 | 31.03.2026 | Motivation: What is motivation? |  | Mata |
+| 7 | 07.04.2026 | Motivation: Extrinsic vs intrinsic motivation |  | Mata |
+| 8 | 14.04.2026 | Motivation: Neural bases |  | Tisdall |
+| 9 | 28.04.2026 | Motivation: Cooperation and morality |   | Theisen |
+| 10 | 05.05.2026 | Motivation: Cooperation and morality  |  | Theisen |
+| 11 | 12.05.2026 | Applications | | Mata |
+| 12 | 19.05.2026 | Wrap-up and Q&A | | Mata |
+| 13 | 03.06.2026 | Exam (DSBG Neubau) |  |  |
+| 14 | 21.07.2026 | Repeat Exam (Biozentrum)|  |  |
 :::
 
 *Note*. Slides will be made available shortly before each session.
