@@ -1,0 +1,109 @@
+---
+title: "KOGPSY II"
+description: |
+  Welcome to the website for *Kognitionspsychologie II* FS25 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=288841))
+  
+  Instructors: [Loreen Tisdall](https://loreentisdall.github.io), [Max Theisen](https://psychologie.unibas.ch/de/personen/maximilian-theisen/), [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
+  
+  **Last updated:** `r format(Sys.time(), "%a %b %d %X %Y")`
+  
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+![Where does motivation come from? <span>Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/a-piece-of-paper-with-a-message-written-on-it-0Qo_Nn5wLOc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></span>](photos/annie-spratt-0Qo_Nn5wLOc-unsplash.jpg)
+
+# Session information
+
+Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U1.111. 
+
+Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at the DSBG Neubau, Sporthalle 1. The **Repeat Exam** is scheduled for 21.07.2025, from	10.00 to 12.00, at the Biozentrum, Hörsaal U1.131. 
+
+::: l-body
+| # | Date     | Topic                         | Slides | Instructor |
+|---| ---------|-------------------------------|--------| ------- |
+| 1 | 18.02.2025 | Emotion: What is an emotion? | [pdf](presentations/KOGPSYII_session1.pdf) | Mata |
+| 2 | 25.02.2025 | Emotion: What is an emotion? (continued) | [pdf](presentations/KOGPSYII_session2.pdf)  | Mata |
+| 3 | 18.03.2025 | Emotion: Neural bases | [pdf](presentations/KOGPSYII_session3.pdf)  | Tisdall |
+| 4 | 25.03.2025 | Emotion: Regulation | [pdf](presentations/KOGPSYII_session4.pdf)  | Mata |
+| 5 | 01.04.2025 | Emotion: Well-being | [pdf](presentations/KOGPSYII_session5.pdf)  | Mata |
+| 6 | 08.04.2025 | Motivation: What is motivation? | [pdf](presentations/KOGPSYII_session6.pdf)  | Mata |
+| 7 | 15.04.2025 | Motivation: Extrinsic vs intrinsic motivation | [pdf](presentations/KOGPSYII_session7.pdf) | Mata |
+| 8 | 29.04.2025 | Motivation: Neural bases | [pdf](presentations/KOGPSYII_session8.pdf)   | Tisdall |
+| 9 | 06.05.2025 | Motivation: Cooperation and morality | [pdf](presentations/KOGPSYII_session9.pdf)  | Theisen |
+| 10 | 13.05.2025 | Applications |  [pdf](presentations/KOGPSYII_session10.pdf)  | Mata |
+| 11 | 20.05.2025 | Wrap-up and Q&A | [pdf](presentations/KOGPSYII_session11.pdf) | Mata |
+| 12 | 03.06.2025 | Exam (DSBG Neubau) |  |  |
+| 13 | 21.07.2025 | Repeat Exam (Biozentrum)|  |  |
+:::
+
+*Note*. Slides will be made available shortly before each session.
+
+# What is this course about?
+
+This course aims to give a broad introduction to central topics in psychology, with a focus on emotion and motivation. 
+
+# What can you expect to learn?
+
+By completing the course you can expect to...
+
+- learn about central theories and models concerning the psychology of emotion and motivation
+- become familiarized with common methods used in the psychology of emotion and motivation
+- learn about examples of applications of the psychology of emotion and motivation to real-world contexts
+
+# How should you use this website?
+
+This website is designed to help course participants get an overview of the course, including a listing of recommended readings (see below) and the course slides (see table above). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1847406.html) forum is available on ADAM. 
+
+**Recommended Readings**
+
+**Session 1**
+
+Gross, J.J, & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. *Emotion Review, 3*, 8–16. https://journals.sagepub.com/doi/10.1177/1754073910380974 
+
+**Session 2**
+
+De Waal, F. B. M., & Andrews, K. (2022). The question of animal emotions. *Science, 375*(6587), 1351–1352. https://doi.org/10.1126/science.abo2378
+
+**Session 3**
+
+Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. *Behavioral and Brain Sciences, 35*(3), 121–143. https://doi.org/10.1017/S0140525X11000446
+
+**Session 4**
+
+Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. https://doi.org/10.1080/1047840X.2014.940781
+
+**Session 5**
+
+Tov, W., Wirtz, D., Kushlev, K., Biswas-Diener, R., Diener, E. (2022). Well-being science for teaching and the general public. *Perspectives in Psychological Science, 17*(5), 1452-1471. https://journals.sagepub.com/doi/10.1177/17456916211046946 
+
+**Session 6**
+
+Heckhausen, H. (2008). Historical trends in motivation research. In J. Heckhausen & H. Heckhausen (Eds.), *Motivation and Action* (2nd ed., pp. 10–41). Cambridge University Press. https://doi.org/10.1017/CBO9780511499821.003
+
+**Session 7**
+
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68-78. https://doi.org/10.1037/0003-066X.55.1.68 
+
+**Session 8**
+
+Braver, T. S., Krug, M. K., Chiew, K. S., Kool, W., Westbrook, J. A., Clement, N. J., et al. (2014). Mechanisms of motivation-cognition interaction: Challenges and opportunities. *Cognitive, Affective, & Behavioral Neuroscience, 14*(2), 443–472. http://doi.org/10.3758/s13415-014-0300-0
+
+**Session 9**
+
+Tomasello, M., & Vaish, A. (2013). Origins of human cooperation and morality. *Annual Review of Psychology, 64*(1), 231–255. https://doi.org/10.1146/annurev-psych-113011-143812
+
+**Session 10**
+
+Duckworth, A. L., Milkman, K. L., & Laibson, D. (2018). Beyond willpower: Strategies for reducing failures of self-control. *Psychological Science in the Public Interest, 19*(3), 102–129. https://doi.org/10.1177/1529100618821893
+

@@ -1,0 +1,12 @@
+name: "KOGPSY II"
+title: "KOGPSY II"
+description: |
+  KOGPSY II
+output_dir: "docs"
+navbar:
+  logo:
+    image: photos/unibas.png
+    href: https://cds.unibas.ch
+output:
+  distill::distill_article:
+    toc: true
