@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U1.111. 
 
-Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at the DSBG Neubau, Sporthalle 1. The **Repeat Exam** is scheduled for 21.07.2025, from	10.00 to 12.00, at the Biozentrum, Hörsaal U1.131. 
+<!-- Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at the DSBG Neubau, Sporthalle 1. The **Repeat Exam** is scheduled for 21.07.2025, from	10.00 to 12.00, at the Biozentrum, Hörsaal U1.131.  -->
 
 ::: l-body
 | # | Date     | Topic                         | Slides | Instructor |
@@ -40,8 +40,8 @@ Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at
 | 6 | 31.03.2026 | Motivation: What is motivation? |  | Mata |
 | 7 | 07.04.2026 | Motivation: Extrinsic vs intrinsic motivation |  | Mata |
 | 8 | 14.04.2026 | Motivation: Neural bases |  | Tisdall |
-| 9 | 28.04.2026 | Motivation: Cooperation and morality |   | Theisen |
-| 10 | 05.05.2026 | Motivation: Cooperation and morality  |  | Theisen |
+| 9 | 28.04.2026 | Motivation: Cooperation |   | Theisen |
+| 10 | 05.05.2026 | Motivation: Morality  |  | Theisen |
 | 11 | 12.05.2026 | Applications | | Mata |
 | 12 | 19.05.2026 | Wrap-up and Q&A | | Mata |
 | 13 | 03.06.2026 | Exam (DSBG Neubau) |  |  |
