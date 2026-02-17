@@ -32,7 +32,7 @@ Please note that the **Exam** takes place on 03.06.2026, from	08.00 to 10.00, at
 ::: l-body
 | # | Date     | Topic                         | Slides | Instructor |
 |---| ---------|-------------------------------|--------| ------- |
-| 1 | 17.02.2026 | Emotion: What is an emotion? |  | Mata |
+| 1 | 17.02.2026 | Emotion: What is an emotion? | [pdf](presentations/KOGPSYII_session1.pdf) | Mata |
 | 2 | 03.03.2026 | Emotion: What is an emotion? (continued) |  | Mata |
 | 3 | 10.03.2026 | Emotion: Neural bases |  | Tisdall |
 | 4 | 17.03.2026 | Emotion: Regulation |   | Mata |
