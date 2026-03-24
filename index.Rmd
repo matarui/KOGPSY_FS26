@@ -36,7 +36,7 @@ Please note that the **Exam** takes place on 03.06.2026, from	08.00 to 10.00, at
 | 2 | 03.03.2026 | Emotion: What is an emotion? (continued) | [pdf](presentations/KOGPSYII_session2.pdf)  | Mata |
 | 3 | 10.03.2026 | Emotion: Neural bases | [pdf](presentations/KOGPSYII_session3.pdf)  | Tisdall |
 | 4 | 17.03.2026 | Emotion: Regulation | [pdf](presentations/KOGPSYII_session4.pdf)  | Mata |
-| 5 | 24.03.2026 | Emotion: Well-being | | Mata |
+| 5 | 24.03.2026 | Emotion: Well-being | [pdf](presentations/KOGPSYII_session5.pdf)  | Mata |
 | 6 | 31.03.2026 | Motivation: What is motivation? |  | Mata |
 | 7 | 07.04.2026 | Motivation: Extrinsic vs intrinsic motivation |  | Mata |
 | 8 | 14.04.2026 | Motivation: Neural bases |  | Tisdall |
