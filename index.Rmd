@@ -41,7 +41,7 @@ Please note that the **Exam** takes place on 03.06.2026, from	08.00 to 10.00, at
 | 7 | 07.04.2026 | Motivation: Extrinsic vs intrinsic motivation | [pdf](presentations/KOGPSYII_session7.pdf)  | Mata |
 | 8 | 14.04.2026 | Motivation: Neural bases | [pdf](presentations/KOGPSYII_session8.pdf)  | Tisdall |
 | 9 | 28.04.2026 | Motivation: Cooperation | [pdf](presentations/KOGPSYII_session9.pdf)   | Theisen |
-| 10 | 05.05.2026 | Motivation: Morality  | [pdf] (presentations/KOGPSYII_session10.pdf | Theisen |
+| 10 | 05.05.2026 | Motivation: Morality  | [pdf](presentations/KOGPSYII_session10.pdf) | Theisen |
 | 11 | 12.05.2026 | Applications | | Mata |
 | 12 | 19.05.2026 | Wrap-up and Q&A | | Mata |
 | 13 | 03.06.2026 | Exam (DSBG Neubau) |  |  |
